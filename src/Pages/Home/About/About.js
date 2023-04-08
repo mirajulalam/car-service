@@ -11,14 +11,14 @@ const About = () => {
                 <img src={parts}  alt="" className="absolute right-5 top-1/2 w-3/5 border-8 rounded-lg shadow-2xl" />
             </div>
             <div className='w-1/2'>
-                <p className="text-2xl font-bold text-orange-600">About Us</p>
+                <p className="text-2xl font-bold text-[#ff3818]">About Us</p>
                 <h1 className="my-5 text-5xl font-bold">
                     We are qualified <br />
                     & of experience <br />
                     in this field</h1>
                 <p className="py-6">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </p>
                 <p className="py-6">the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </p>
-                <button className="btn btn-primary">Get More Info</button>
+                <button className="btn bg-[#ff3818] hover-[#ff3818] border-[#ff3818]">Get More Info</button>
             </div>
         </div>
     </div>

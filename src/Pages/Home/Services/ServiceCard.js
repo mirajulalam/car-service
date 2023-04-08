@@ -7,9 +7,9 @@ const ServiceCard = ({service}) => {
             <figure><img src={img} alt="Shoes" /></figure>
             <div className="card-body">
                 <h2 className="card-title">{title}</h2>
-                <p className='text-2xl text-orange-600 font-semibold'>Price: ${price}</p>
+                <p className='text-2xl text-[#ff3818] font-semibold'>Price: ${price}</p>
                 <div className="card-actions justify-end">
-                    <button className="btn btn-primary">Buy Now</button>
+                    <button className="btn bg-[#ff3818] border-[#ff3818]">Buy Now</button>
                 </div>
             </div>
         </div>

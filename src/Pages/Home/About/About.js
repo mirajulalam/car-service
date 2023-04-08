@@ -11,7 +11,7 @@ const About = () => {
                 <img src={parts}  alt="" className="absolute right-5 top-1/2 w-3/5 border-8 rounded-lg shadow-2xl" />
             </div>
             <div className='w-1/2'>
-                <p className="text-2xl font-bold text-[#ff3818]">About Us</p>
+                <p className="text-2xl font-bold text-[#ff3818]" id='#about'>About Us</p>
                 <h1 className="my-5 text-5xl font-bold">
                     We are qualified <br />
                     & of experience <br />

@@ -13,7 +13,7 @@ const Review = () => {
             data-aos-duration="3000" className="card lg:mx-w-lg bg-base-100 shadow-xl">
             <div className="card-body">
                 <h2 className="card-title text-[#ff3818]">Rating: 5</h2>
-                <p>There are many benefits to undergoing a fluoride treatment. They include: Reducing cavities by eliminating bacteria that cause decay. It strengthens the enamel of developing teeth, making them better resistant to decay for their lifespan.</p>
+                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </p>
                 <div className="flex items-center mt-5">
                 <div className="avatar">
                         <div className="w-16 rounded-full ring ring-secondary ring-offset-base-100 mr-5">
@@ -32,7 +32,7 @@ const Review = () => {
             data-aos-duration="3000" className="card lg:mx-w-lg bg-base-100 shadow-xl">
             <div className="card-body">
                 <h2 className="card-title text-[#ff3818]">Rating: 4</h2>
-                <p>A great dentist understands that a patient needs to feel in control of his or her treatment. Honesty and Compassion: A good dentist is also honest and compassionate. Dental problems can affect many areas of a person's life, and dentists need to be sensitive to the problems caused by poor dental health.</p>
+                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </p>
                 <div className="flex items-center mt-5">
                 <div className="avatar">
                         <div className="w-16 rounded-full ring ring-secondary ring-offset-base-100 mr-5">
@@ -51,7 +51,7 @@ const Review = () => {
             data-aos-duration="3000" className="card lg:mx-w-lg bg-base-100 shadow-xl">
             <div className="card-body">
                 <h2 className="card-title text-[#ff3818]">Rating: 3</h2>
-                <p>Professional teeth whiteners are safe, effective, and done under the supervision of a dental professional. In most cases, it is worth the extra cost to visit the dentist to get long-lasting, safe results. Yes, teeth whitening is very safe when done correctly.</p>
+                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </p>
                 <div className="flex items-center mt-5">
                 <div className="avatar">
                         <div className="w-16 rounded-full ring ring-secondary ring-offset-base-100 mr-5">
